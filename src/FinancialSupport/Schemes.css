@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    background-color: rgb(48, 18, 88);
+    font-style: italic;
+    color:rgb(21, 161, 173)
+ }
+ h2{
+    color:rgb(21, 161, 173);
+ }
+ .container{
+     background-color: #d0e1e1;
+     margin-bottom:10px;
+ }
+ 
+ .link{
+    text-decoration: none;
+ }
+ body{
+    background-color: #d0e1e1;
+ }
+ .container1{
+    margin-left: 30px;
+    margin-right:30px;
+ }
+ .flex{
+    display: flex;
+    justify-content: space-evenly;
+ 
+ }
+ img{
+    width: 300px;
+ 
+ }

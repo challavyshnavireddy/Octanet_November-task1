@@ -1,0 +1,13 @@
+.w{
+    font-size: xx-large;
+}
+.m{
+    color: black;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(130, 153, 190);
+    color: white;
+    position:relative;
+  }
